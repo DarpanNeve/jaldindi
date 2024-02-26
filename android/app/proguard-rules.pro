@@ -1,0 +1,1 @@
+-keep class com.jaldindi_pratishthan.jaldindi.BuildConfig { *; }

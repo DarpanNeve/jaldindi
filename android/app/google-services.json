@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "290414636765",
+    "project_id": "jaldindi-pratishthan",
+    "storage_bucket": "jaldindi-pratishthan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290414636765:android:de184080912abb77c8f534",
+        "android_client_info": {
+          "package_name": "com.jaldindi_pratishthan.jaldindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290414636765-7gl7qpsfevk846she483ahce7tagcj33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaldindi_pratishthan.jaldindi",
+            "certificate_hash": "9d861e3eb6c9c0f96b1bd6f30e6e9b3834270738"
+          }
+        },
+        {
+          "client_id": "290414636765-7ma5ftfiqa0np41j6803de2uatnehigt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaldindi_pratishthan.jaldindi",
+            "certificate_hash": "881832e8a5171151cabdb5d415022a95d5e84768"
+          }
+        },
+        {
+          "client_id": "290414636765-abd5lg51um7sqt9fv844iukc6dtvj1r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaldindi_pratishthan.jaldindi",
+            "certificate_hash": "15b46160652a3b236e8d84ba2924a44d70262771"
+          }
+        },
+        {
+          "client_id": "290414636765-f8jqc31ec33si5n4950acn9bm6i9cgod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaldindi_pratishthan.jaldindi",
+            "certificate_hash": "5c1d773e358098f9da6de2f670db8f03a1ba896f"
+          }
+        },
+        {
+          "client_id": "290414636765-hd350f6t6aoi4sp7g7k9nkjroeos5jgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaldindi_pratishthan.jaldindi",
+            "certificate_hash": "c5a47893bdd7476022e003eaf820bc1686d85907"
+          }
+        },
+        {
+          "client_id": "290414636765-rihqe7jgeutq4sjslmoeab9ssg1ojoju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsbbRvskTk13FQIPzrjLo1NBT-Zvr_qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290414636765-e0tju540ffe8rsa1v16i2dh5lbbanddf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290414636765-725938jurpuanjb3rlrr04t2mbkbg3vk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jaldindi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
