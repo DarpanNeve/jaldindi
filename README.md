@@ -29,9 +29,9 @@ To run the project locally, follow these steps:
 4. Run the app on an emulator or physical device.
 
 ## Contributors
-- [Your Name](https://github.com/DarpanNeve)
-- [Co-contributor](https://github.com/Aniket8195)
-
+- [Darpan Neve](https://github.com/DarpanNeve)
+- [Aniket Patil](https://github.com/Aniket8195)
+- [Viraj Patil](https://github.com/Virajpatil818)
 
 ## Contact Information
 For inquiries or collaborations, please contact [darpanneve3@email.com](mailto:darpanneve3@email.com).
